@@ -1,0 +1,32 @@
+name: BackdoorFinder
+version: ${project.version}
+main: tf.matthew.backdoorfinder.BackdoorFinderPlugin
+api-version: "1.20"
+authors: [maaattn]
+description: Backdoor disinfector & Scanner
+commands:
+  backdoorfinder:
+    description: Scan and clean plugin jars with suspicious backdoor patterns
+    usage: /backdoorfinder <scan|thicc|cleanup|reload> [plugin.jar|all]
+    permission: backdoorfinder.use
+    aliases: [bdf]
+  antil10:
+    description: Scan and quarantine jars matching known L10 markers
+    usage: /antil10 <scan|quarantine>
+    permission: antil10.admin
+permissions:
+  backdoorfinder.use:
+    description: Allows using the BackdoorFinder command
+    default: op
+  backdoorfinder.scan:
+    description: Allows scanning plugin jars
+    default: op
+  backdoorfinder.cleanup:
+    description: Allows quarantining confirmed RAT-infected plugin jars
+    default: op
+  backdoorfinder.reload:
+    description: Allows reloading BackdoorFinder config
+    default: op
+  antil10.admin:
+    description: Allows scanning and quarantining known L10-infected jars
+    default: op
