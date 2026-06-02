@@ -1,5 +1,17 @@
 # BackdoorRemover
 
+```
+
+
+```
+**Video (Preview & Tutorial):**
+[![Preview on Youtube](https://img.youtube.com/vi/8LRwmoFy-sU/maxresdefault.jpg)](https://www.youtube.com/watch?v=8LRwmoFy-sU)
+
+```
+
+
+```
+
 The #1 Backdoor detector/scanner & disinfector for Minecraft servers.
 
 BackdoorRemover is a Spigot/Paper plugin designed to protect your Minecraft server by detecting, analyzing, and removing malicious backdoors from plugin jars. Whether you're running a large network or a small server, this tool helps you stay protected!
