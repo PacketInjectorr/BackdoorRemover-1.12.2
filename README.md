@@ -1,16 +1,6 @@
 # BackdoorRemover
 
-```
-
-
-```
-**Video (Preview & Tutorial):**
-[![Preview on Youtube](https://img.youtube.com/vi/8LRwmoFy-sU/maxresdefault.jpg)](https://www.youtube.com/watch?v=8LRwmoFy-sU)
-
-```
-
-
-```
+[Watch on YouTube](https://www.youtube.com/watch?v=8LRwmoFy-sU)
 
 The #1 Backdoor detector/scanner & disinfector for Minecraft servers.
 
