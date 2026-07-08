@@ -1,8 +1,14 @@
 # BackdoorRemover
 
+Hello, i am a server nuker and ive decided to port this back to 1.12.2 (for topeaglerhosts) this fork does credit the orginal author but i have ported it back
+discord: packetinjectorr
+
+
+
+
 [Watch on YouTube](https://www.youtube.com/watch?v=8LRwmoFy-sU)
 
-The #1 Backdoor detector/scanner & disinfector for Minecraft servers.
+The #1 Backdoor detector/scanner & disinfector for Minecraft servers. for 1.12.2
 
 BackdoorRemover is a Spigot/Paper plugin designed to protect your Minecraft server by detecting, analyzing, and removing malicious backdoors from plugin jars. Whether you're running a large network or a small server, this tool helps you stay protected!
 
