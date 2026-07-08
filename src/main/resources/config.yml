@@ -1,6 +1,0 @@
-webhook-url: "ur webhook here :D"
-auto-scan-on-startup: false
-include-clean-results: false
-suspicious-score-threshold: 40
-min-score-to-send: 0
-max-evidence-per-rule: 4
