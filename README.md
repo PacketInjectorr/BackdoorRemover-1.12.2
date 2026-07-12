@@ -80,8 +80,8 @@ What can it do?:
 
 ## Requirements
 
-- Java 21 or higher
-- Paper 1.20.6+ (or compatible Spigot fork)
+- Java 8
+- Paper 1.8.8-1.12.2
 
 ## Support
 
